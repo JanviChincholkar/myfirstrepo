@@ -1,0 +1,26 @@
+.dress{
+    height: 150px;         
+    padding-left: 15px;
+    padding-top: 20px;
+    display: inline-block;
+}
+.card{
+    height: 380px;
+    width: 150px;
+    border: 2px solid black;
+    box-shadow: 3px 1px 20px 3px #c2c2a3 ;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+.text{
+    font-size: 15px;
+margin-left: 11px;}
+.btn{
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 15px;}
