@@ -37,3 +37,23 @@ margin-left: 11px;}
 background-color:red;
 padding-left: 5px;
     }
+
+    .bg{
+        background-image: url(/images/home.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+        width: auto;
+    }
+
+
+    .edit{
+        background-color: black;
+        color: whitesmoke;
+        height: 30px;
+        font-size: large;
+       text-align: right;
+        margin: 10px;
+
+    }
