@@ -12,10 +12,16 @@
     display: inline-block;
     margin: 20px;
     padding: 10px;
+    background-color: #ffffcc;
 }
+.bgpage{
+    background-color: #ffeb99;
+}
+
 .text{
     font-size: 15px;
 margin-left: 11px;}
+
 .btn{
     height: 30px;
     width: 100px;
@@ -28,9 +34,10 @@ margin-left: 11px;}
     .heading{
         background-color: black;
         color: white;
-        height: 80px;
+        height: 200px;
         font-size: 50px;
         text-align: center;
+        padding-top: 15px;
     }
 
     .btnh{
@@ -45,15 +52,46 @@ padding-left: 5px;
         background-repeat: no-repeat;
         height: 100vh;
         width: auto;
+        position: relative;
+    }
+
+    .cardbg{
+        height: 200vh;
+   
     }
 
 
     .edit{
         background-color: black;
         color: whitesmoke;
-        height: 30px;
-        font-size: large;
-       text-align: right;
-        margin: 500px;
+        height: 50px;
+        width: auto;
+        border-color: whitesmoke;
+        border-radius: 10px;
+        position: absolute;
+   margin: 0 10px;
+   padding: 10px 30px;
+   right: 180px;
+   bottom: 200px;
 
     }
+
+    .container{
+ font-size: 20px;
+ height: 50px;
+ width: auto;
+ text-align: center;
+ background-color: black;
+ color: whitesmoke;
+ padding: 15px;
+ padding-top: 50px;
+ width: 400px;
+ height: 200px;
+ top: 100px;
+ right: 100px;
+ position: absolute;
+ border-radius: 100px 0 50px 0;
+
+    }
+
+   
