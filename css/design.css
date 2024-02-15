@@ -7,13 +7,57 @@
 .card{
     height: 350px;
     width: 150px;
-    border: 2px solid black;
+    border: 3px solid black;
     box-shadow: 3px 1px 20px 3px #c2c2a3 ;
     display: inline-block;
     margin: 20px;
     padding: 10px;
     background-color: #e0e0d1;
 }
+
+.horcard{
+    height: 250px;
+    width: 570px;
+    border: 2px solid black;
+    box-shadow: 3px 1px 20px 3px #c2c2a3 ;
+    display: inline-block;
+    margin-right: 1px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: black;
+    border-radius: 10px;
+     position: relative;
+     top: -80px;
+     color: white;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    } 
+  .horimg{
+   height: 160px;
+   width: auto;
+  }
+  .hortext{
+    font-size: 30px;
+    margin-left: 5px;
+  }
+
+  .horbtn{
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+    width: 200px;
+    border-color: whitesmoke;
+    border-radius: 10px;
+  }
+   .horbtn:hover
+   {
+    background-color: whitesmoke;
+    color: black;
+   }
+
+
+
 .bgpage{
     background-color:  #d6d6c2;
     
@@ -25,27 +69,34 @@
 text-align: center;}
 
 .btn{
-    height: 30px;
-    width: 100px;
     background-color: black;
-    color: white;
-    border-radius: 20px;
-    margin-left: 20px;
-    font-size: 15px;}
+    color: whitesmoke;
+    height: 40px;
+    width: 150px;
+    border-color: whitesmoke;
+    border-radius: 10px;
+}
 
     .heading{
         background-color: black;
         color: white;
-        height: 200px;
+        height: 300px;
         font-size: 50px;
         text-align: center;
-        padding-top: 15px;
+        padding-top: 20px;
     }
 
-    .btnh{
-background-color:red;
-padding-left: 5px;
-    }
+  .headtext{
+    
+  }
+
+  .headtext:hover
+  {
+    background-color: whitesmoke;
+    color: black;
+  }
+
+   
 
   .bg{ 
         background-image: url(/images/home.jpg);
@@ -71,7 +122,10 @@ padding-left: 5px;
    padding: 10px 30px;
    right: 180px;
    bottom: 200px;
-
+    }
+    .edit:hover{
+        background-color: whitesmoke;
+        color: black;
     }
 
     .container{
@@ -90,6 +144,15 @@ padding-left: 5px;
  position: absolute;
  border-radius: 100px 0 50px 0;
 
+  }
+
+  .footer{
+    background-color: black;
+    color: white;
+    height: 200px;
+    font-size: 50px;
+    position: relative;
+  
   }
 
    
