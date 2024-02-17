@@ -1,0 +1,80 @@
+.buy-now-img{
+    border: 3px solid black;
+    height: 500px;
+    width: 400px;
+    margin: 20px;
+    display: inline-block;
+    box-shadow: 1px 1px 8px 3px #2f2f1e;
+    border-radius: 15px;
+  margin-top: 80px;
+}
+
+.buy-now-card{
+    height: 600px;
+    width: 600px;
+    margin: 20px;
+    border: 3px solid black;
+    position: relative;
+    top: -140vh;
+    left: 100vh;
+    border-radius: 15px;
+    box-shadow: 1px 1px 8px 3px #2f2f1e;
+}
+
+
+.buy_now_design{
+    background-color: whitesmoke;
+    color: black;
+    height: 90px;
+    width: 600px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 20px;
+    border-bottom: 3px solid black;
+    box-shadow: 1px 1px 8px 3px #2f2f1e;
+    
+}
+
+.buy-text{
+font-size: 25px;
+margin:15px;
+padding: 20px;
+}
+.input_box{
+    height: 30px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: #e0e0d1;
+}
+
+.detail{
+    height: 280px;
+    width: 450px;
+    border: 3px solid black;
+    font-size: 20px;
+    margin:15px;
+padding: 20px;
+box-shadow: 1px 1px 8px 3px #2f2f1e;
+border-radius: 100px 0 100px 0;
+}
+.red { color: red;}
+
+.order{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 200px;
+    border-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    position: relative;
+    left: 170px;
+}
+.order:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-color: black;
+
+}
