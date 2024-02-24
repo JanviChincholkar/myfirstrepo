@@ -15,7 +15,7 @@
 
 You Can Buy A numbers of products with a perfect details....!!!
 
-![buy](/images/product-page.png)
+![buy](/images/buying-page.png)
 
 [buying product page](/pages/buy_now.html) 
 
